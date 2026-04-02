@@ -1,0 +1,16 @@
+# Large data files (exceed GitHub's 100MB limit)
+train.csv
+test.csv
+sample_submission.csv
+
+# Model artifacts
+*.pth
+*.weights.h5
+
+# Submission outputs
+submission.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
